@@ -1,0 +1,13 @@
+{
+    "ORC": {"habilidade": 7, "energia": 7},
+    "Golem": {"habilidade": 5, "energia": 12},
+    "Mantécora": {"habilade": 11, "energia": 11},
+    "Mosca Gigante": {"habilade": 14, "energia": 9},
+    "Primeiro Goblin": {"habilade": 4, "energia": 5},
+    "Segundo Goblin": {"habilade": 5, "energia": 4},
+    "Minotáuro": {"habilade": 9, "energia": 9},
+    "Primeiro Hobgoblin": {"habilidade": 7, "energia": 5}, 
+    "Segundo Hobgoblin": {"habilidade": 6, "energia": 5}, 
+    "Diabo do Poço": {"habilade": 12, "energia": 15 },
+    "Erva": {"habilade": 9, "energia": 9}
+}
