@@ -5,7 +5,9 @@ def gerar_mochila():
                 "Poção de Sorte" : 3 , 
                 "espada" : 0,
                 "poção da réplica": 0,
-                "itens_diversos": []}
+                "itens_diversos": [],
+                "Peça de Ouro": 0
+                }
 
     return mochila
 

@@ -1,13 +1,36 @@
 {
     "ORC": {"habilidade": 7, "energia": 7},
     "Golem": {"habilidade": 5, "energia": 12},
-    "Mantécora": {"habilade": 11, "energia": 11},
-    "Mosca Gigante": {"habilade": 14, "energia": 9},
-    "Primeiro Goblin": {"habilade": 4, "energia": 5},
-    "Segundo Goblin": {"habilade": 5, "energia": 4},
-    "Minotáuro": {"habilade": 9, "energia": 9},
+    "Mantécora": {"habilidade": 11, "energia": 11},
+    "Mosca Gigante": {"habilidade": 14, "energia": 9},
+    "Primeiro Goblin": {"habilidade": 4, "energia": 5},
+    "Segundo Goblin": {"habilidade": 5, "energia": 4},
+    "Minotáuro": {"habilidade": 9, "energia": 9},
     "Primeiro Hobgoblin": {"habilidade": 7, "energia": 5}, 
     "Segundo Hobgoblin": {"habilidade": 6, "energia": 5}, 
-    "Diabo do Poço": {"habilade": 12, "energia": 15 },
-    "Erva": {"habilade": 9, "energia": 9}
+    "Diabo do Poço": {"habilidade": 12, "energia": 15 },
+    "Erva": {"habilidade": 9, "energia": 9},
+    "Escorpião Gigante": {"habilidade": 10, "energia": 10},
+    "Anão":{"habilidade": 8, "energia": 6},
+    "Imitador":{"habilidade":9, "energia":8},
+    "Besta Sangrenta":{"habilidade": 12, "energia": 10},
+    "Diabo do Posso":{"habilidade": 12, "energia": 15},
+    "Primeiro Cão de Guarda":{"habilidade": 7, "energia": 7},
+    "Segundo Cão de Guarda":{"habilidade": 7, "energia": 8},
+    "Verme da Rocha":{"habilidade":7, "energia":11},
+    "Primeiro Guardião Voador":{"habilidade":7, "energia":8},
+    "Segundo Guardião Voador":{"habilidade":8, "energia":8},
+    "Primeira Orca":{"habilidade":5, "energia":5},
+    "Segunda Orca":{"habilidade":6, "energia":4},
+    "Throm":{"habilidade":10, "energia":12},
+    "Ninja":{"habilidade":11, "energia":9},
+    "Guerreiro-Esqueleto":{"habilidade":8, "energia":6},
+    "Homem da Caverna":{"habilidade":7, "energia":7},
+    "Troll da Caverna":{"habilidade":10, "energia":11}
+
+    
+
+    
+
+    
 }

@@ -103,7 +103,6 @@ cap97="Você não sabe, mas a Besta Sangrenta só tem um ponto fraco: seus olhos
 cap98="Erguendo a taça, você aciona um mecanismo de mola, e um dardo é disparado da perna da mesa de madeira. Teste sua Sorte. Se você tiver sorte, vá para 105. Se não tiver sorte, vá para 235."
 cap99="Sorrindo, você diz a Erva que a acha muito parecida com Barriga Azeda. Então, enquanto ela olha com admiração para a pintura, você pega um banco quebrado, aproxima-se silenciosamente por trás dela e golpeia-lhe a cabeça com toda a força. Para seu imenso alívio, Erva cai sem sentidos. Se você quiser revistar-lhe o quarto, vá para 266. Se não, saia pela porta da parede leste. Você se encontrará no final de um túnel. Vá para 305."
 cap100 = "Alguns metros adiante, descendo a passagem, você vê uma outra porta fechada na parede da esquerda. Há uma letra X na placa central da porta. Colocando o ouvido na porta, você escuta atentamente, mas não consegue ouvir nada. Se você quiser abrir a porta, volte para 87. Se preferir continuar caminhando para o norte, vá para 217."
-
 cap101 = "A correnteza do rio é bastante forte, e, atrapalhado pela armadura e a mochila, você não está em condição de nadar contra ela. Em poucos segundos, é arrastado por baixo da ponte. De pé na margem do rio, os Trogloditas olham, riem e gracejam, enquanto você desce o rio para encontrar a morte nas profundezas da montanha"
 cap102 = "Você entra em um aposento pequeno e completamente vazio. Logo a porta se fecha atrás de você. Repentinamente, uma voz ressoa, vinda de lugar nenhum: Bem vindo ao Calabouço da Morte, o engenhoso labirinto assassino do meu senhor. Aventureiro, creio que você apresentará seus respeitos ao meu senhor, gritando seu nome? Você gritará:"
 cap103 = "Você respira o gás venenoso e começa a se engasgar. Você perde 3 pontos de ENERGIA. Se ainda estiver vivo, volte para 77.\n Salve, Sukumvit?	Vá para 133\n Sukumvit é um verme?	Vá para 251"
@@ -141,22 +140,22 @@ cap134 = "O túnel leva a um amplo aposento cujo teto é sustentado por diversos
 cap135 = "Passando pelo buraco perfurado do Verme da Rocha, à sua esquerda, você logo chega à encruzilhada. Dá uma olhada rápida no túnel que conduz ao sul, mas não vê ninguém se aproximando. Apressando o passo, você segue velozmente para o leste. Volte para 68."
 cap136 = "A porta abre para um outro túnel, que se inclina numa subida ao longe. Depois de percorrer essa subida por algum tempo, você chega a uma parte plana, onde numa porta na parede da direita encontra-se pregada uma mão já decomposta. Se você quiser abrir a porta, vá para 210. Se preferir continuar para o norte, volte para 78."
 cap137 = "Caminhando pelo túnel, você se surpreende com um grande sino de ferro pendurado no teto. Se quiser tocar o sino, vá para 220. Se preferir contorná-lo e prosseguir para o oeste, vá para 362"
-cap138 = "As páginas do livro estão unidas com lacre, mas um pequeno orifício foi cortado no meio delas, de tamanho suficiente para conter uma pequena garrafa arrolhada, na qual há um líquido de cor clara. Você mostra isso a Throm, que levanta a mão, indicando não querer que você sequer chegue perto dele com aquilo; a desconfiança que ele sente em relação às coisas desconhecidas fica evidente. Você:"
+cap138 = "As páginas do livro estão unidas com lacre, mas um pequeno orifício foi cortado no meio delas, de tamanho suficiente para conter uma pequena garrafa arrolhada, na qual há um líquido de cor clara. Você mostra isso a Throm, que levanta a mão, indicando não querer que você sequer chegue perto dele com aquilo; a desconfiança que ele sente em relação às coisas desconhecidas fica evidente. Você:/\n/Beberá o Líquido? - Vá para 393/\n/Esfregará o líquido nos seus ferimentos? - Volte para 75/\n/Abrirá o livro vermelho (se ainda não fez isso) - Volte para 52/\n/Deixará a garrafa de lado e seguirá para o norte com Throm - Vá para 369"
 cap139 = "Ao tentar escapar, você é atacado ferozmente por Erva, que, com raiva, vira-se rapidamente, pega um banco quebrado e o atinge com ele. Você perde 2 pontos de ENERGIA. Se ainda estiver vivo, você consegue desembainhar a espada e lutar ERVA	HABILIDADE 9	ENERGIA 9 Se você vencer, vá para 201."
 cap140 = "Você tenta forçar o olho de esmeralda com a ponta da espada, procurando enfiá-la por baixo dele. Para sua grande surpresa, ele se despedaça com o contato, soltando um jato de gás venenoso direto no seu rosto. Você desmaia e cai para trás, chocando-se contra o ídolo várias vezes até parar no chão de pedra. Sua aventura termina aqui."
 cap141 = "O Demônio do Espelho está quase em cima de você quando, reunindo todas as suas forças, você desfere um golpe decisivo contra o espelho com a espada. Jogue dois dados. Se o total for igual ou menor que a sua HABILIDADE, volte para 72. Se o total for maior que a sua HABILIDADE, volte para 96."
-cap142 = "Há uma nova ramificação no túnel à sua esquerda, e, à frente, você vê dois corpos estendidos no chão. Você pára e dá uma espiada no novo túnel, mas, não vendo nem portas nem criaturas, resolve seguir por ele. Com a espada na mão, você caminha na direção dos corpos estendidos. Vá para 338."
+cap142 = "Há uma nova ramificação no túnel à sua esquerda, e, à frente, você vê dois corpos estendidos no chão. Você para e dá uma espiada no novo túnel, mas, não vendo nem portas nem criaturas, resolve seguir por ele. Com a espada na mão, você caminha na direção dos corpos estendidos. Vá para 338."
 cap143 = "Você chama o Anão, dizendo-lhe para mandar vir o ESCORPIÃO, pois você está pronto para lutar. Lentamente, a porta de madeira é erguida, e um enorme e grotesco escorpião negro se esgueira por baixo dela e entra no aposento. Você desembainha a espada em guarda e se prepara para enfrentar a sinistra criatura com pinças gigantescas e ferrão mortal. ESCORPIÃO GIGANTE	HABILIDADE 10	ENERGIA 10 O Escorpião o ataca com ambas as pinças, e você terá que considerar cada uma das pinças como uma entidade separada, como se lutasse contra duas criaturas. Ambas as pinças possuem HABILIDADE 10 e o atacarão separadamente em cada Série de Ataque, mas você terá que escolher qual delas enfrentará. Ataque uma pinça como numa batalha normal. Contra a outra pinça, você joga os dados para determinar sua Força de Ataque da forma costumeira, mas você não causará ferimentos ao Escorpião, mesmo que sua Força de Ataque seja maior; conte isso como se você tivesse apenas conseguido se defender de um golpe. É claro que, se a Força de Ataque da pinça for maior que a sua, você será ferido da maneira usual. Se, durante qualquer das Séries de Ataque, a Força de Ataque do Escorpião totalizar 22, volte para 2. Se você conseguir matar o Escorpião sem que ele atinja uma Força de Ataque de 22, vá para 163."
 cap144 = "Ainda sorrindo, o velho olha para você e diz em voz baixa: 'Errado.' Volte para 85."
 cap145 = "O Anão estava esperando seu movimento. Além disso, você não é tão rápido quanto deveria, devido ao sofrimento recente, por isso ele evita seu golpe facilmente, dizendo: “Eu poderia matá-lo agora, se quisesse, mas estou com saudades de uma luta corpo a corpo.” Em seguida, ele larga a besta no chão e puxa uma acha do cinto. Apesar da fadiga, você só pensa em vingança. ANÃO	HABILIDADE 8	ENERGIA 6 Durante cada Série de Ataque, você terá que reduzir sua Força de Ataque em 2, por causa da sua condição física. Se você vencer, volte para 28."
 cap146 = "A dor nos pulmões força-o a subir à superfície para respirar. Felizmente, nenhum dos Trogloditas o vê e todos se dispersam. Você sai do rio e atravessa a ponte para a margem norte. Quaisquer Provisões restantes que você possa ter estão agora imprestáveis. Você segue pela vasta caverna até que, finalmente, vê um túnel na parede do outro lado. Você anda até ele e chega a uma pesada porta de madeira, que está trancada. Se você tiver uma chave de ferro, volte para 86. Se não tiver a chave, vá para 276."
 cap147 = "A água no tubo de bambu é agradavelmente refrescante. Você ganha 1 ponto de ENERGIA. A água contém também uma solução mágica que lhe permite expor-se a temperaturas altíssimas sem sofrer danos. Jogando fora o bambu, você segue para o norte de novo com excelente disposição. Vá para 182."
-cap148 = "Nada há a fazer senão descer as escadas, na direção dos cachorros que latem. Você chega ao pé da escada com a espada na mão e enfrenta os dois gigantescos CÃES DE GUARDA, que saltam sobre você, um de cada vez.HABILIDADE	ENERGIA Primeiro CÃO DE GUARDA	7	7 Segundo CÃO DE GUARDA	7	8 Se você vencer, vá para 175. Você pode Fugir depois de matar o primeiro Cão de Guarda, correndo para leste pelo túnel. Vá para 315."
+cap148 = "Nada há a fazer senão descer as escadas, na direção dos cachorros que latem. Você chega ao pé da escada com a espada na mão e enfrenta os dois gigantescos CÃES DE GUARDA, que saltam sobre você, um de cada vez./\n/Primeiro CÃO DE GUARDA HABILIDADE - 7 ENERGIA - 7 /\n/Segundo CÃO DE GUARDA	HABILIDADE - 7 ENERGIA - 8  /\n/Se você vencer, vá para 175. Você pode Fugir depois de matar o primeiro Cão de Guarda, correndo para leste pelo túnel. Vá para 315."
 cap149= "Você solta a corda e ouve ela cair no fundo do poço. O Bárbaro o amaldiçoa, prometendo matá-lo se seus caminhos se cruzarem outra vez. Você recua, toma distância e salta. Cai em segurança do outro lado do poço e continua para o oeste. Mais adiante no túnel, você pisa em uma parte do chão de pedra que se inclina para frente, disparando uma armadilha que solta um rochedo preso frouxamente no teto. Você olha para cima bem no momento em que o rochedo está prestes a cair sobre você. Teste sua Sorte. Se você tiver sorte,volte para 70. Se não tiver sorte, vá para 353"
 cap150 = "Tendo tido a boa idéia de não pôr o seu braço da espada dentro do buraco, os efeitos do tentáculo não são muito graves. Você perde 1 ponto de HABILIDADE. Enfiando novamente o braço no buraco, de lá retira o gancho e a bolsa de couro. Dentro da bolsa, você encontra um minúsculo sino de metal. Guarda suas novas posses na mochila e continua para o norte. Vá para 292."
-cap151 = "Quando toca o olho de esmeralda do ídolo, você ouve um rangido abaixo. Ao olhar, fica abismado ao ver os dois pássaros empalhados voando. As asas das criaturas batem aos arrancos, mas logo estão acima de você e parecem prontos para atacar. Lute com um dos GUARDIÃES VOADORES de cada vez, mas reduza sua HABILIDADE em 2 pontos durante este combate, pois a posição restringe-lhe os movimentos.HABILIDADE	ENERGIA Primeiro GUARDIÃOVOADOR	7	8 Segundo GUARDIÃO VOADOR	8	8 Se você vencer, vá para 240."
+cap151 = "Quando toca o olho de esmeralda do ídolo, você ouve um rangido abaixo. Ao olhar, fica abismado ao ver os dois pássaros empalhados voando. As asas das criaturas batem aos arrancos, mas logo estão acima de você e parecem prontos para atacar. Lute com um dos GUARDIÃES VOADORES de cada vez, mas reduza sua HABILIDADE em 2 pontos durante este combate, pois a posição restringe-lhe os movimentos.\n/Primeiro GUARDIÃOVOADOR HABILIDADE - 7 ENERGIA - 8 /\n/Segundo GUARDIÃO VOADOR HABILIDADE - 8 ENERGIA - 8 /\n/Se você vencer, vá para 240."
 cap152 = "O Anão o cumprimenta por ter adivinhado corretamente. Ele diz que agora você deverá seguir para a segunda fase do teste. Apanhando uma cesta de vime, ele lhe diz que há uma cobra dentro dela. Vira a cesta e a cobra cai ao chão; é uma naja, que se ergue no ar, pronta para o bote. O Anão diz que quer testar suas reações. De mãos vazias, você deverá segurar a naja pelo pescoço, evitando-lhe os dentes mortais. Você se agacha, tensionando os músculos para o momento decisivo. Jogue dois dados. Se o total for igual ou menor que a sua HABILIDADE, volte para 55. Se o total for maior que a sua HABILIDADE, vá para 202."
-cap153 = "A porta abre para um pequeno aposento, no qual há um crânio humano cujos olhos são jóias, pousado sobre um pedestal de mármore. Uma bateria de bestas com dardos está fixada à parede da esquerda, e duas pequenas bolas de madeira estão no chão, bem perto da porta. Você: Entrará no aposento e apanhará o crânio?	Vá para 390 Jogará, da porta, uma das bolas de madeira no crânio?	Vá para 371 Fechará a porta e continuará para o oeste, levando as bolas de madeira?	Volte para 74"
+cap153 = "A porta abre para um pequeno aposento, no qual há um crânio humano cujos olhos são jóias, pousado sobre um pedestal de mármore. Uma bateria de bestas com dardos está fixada à parede da esquerda, e duas pequenas bolas de madeira estão no chão, bem perto da porta. Você: /\n/Entrará no aposento e apanhará o crânio? - Vá para 390 /\n/Jogará, da porta, uma das bolas de madeira no crânio? - Vá para 371/\n/ Fechará a porta e continuará para o oeste, levando as bolas de madeira? - Volte para 74"
 cap154 = "Correndo pelo túnel, você logo alcança o Bárbaro e diz a ele que a passagem do leste conduz a um beco sem saída. Ele faz um aceno com a cabeça, num entendimento silencioso, e ambos partem para o oeste. Volte para 22."
 cap155 = "As palavras do poema dela cruzam velozmente a sua mente: “Quando o corredor a água encontrar, não se apresse em recuar...” Está claro, é aqui que ela quer que você mergulhe na água. Agora, você deve decidir. Se quiser mergulhar na água, vá para 378. Se preferir caminhar de volta para o túnel, vá para 322."
 cap156 = "A pequena placa desliza e se abre facilmente, e você divisa um aposento com um poço profundo no chão atrás da porta. Na parede do outro lado, há dois ganchos de ferro, num dos quais está pendurado um rolo de corda. Se você quiser abrir a porta, pular por cima do poço e pegar a corda, vá para 208. Se preferir continuar para o norte pelo túnel, vá para 326."
@@ -169,13 +168,13 @@ cap162 = "Retirando a tampada caixa na luz do túnel, você encontra uma chave d
 cap163 = "O Anão o chamada sacada, congratulando-o pela vitória. Ela joga um saco na arena e lhe diz para relaxar e recuperar as forças para a parte final do teste. Depois, ele sai, dizendo que estará de volta em 10 minutos. Você abre o saco e encontra uma moringa com vinho e galinha cozida. Se você quiser comer o que o Anão ofereceu, vá para 363. Se preferir simplesmente ficar sentado, esperando que ele volte, vá para 302."
 cap164 = "Enquanto você caminha, pingos de água voltam a cair do teto do túnel. Você vê pegadas úmidas, feitas pelas mesmas botas que você havia seguido anteriormente, se dirigindo para o oeste. As pegadas conduzem a uma porta de ferro fechada na parede do lado direito do túnel, mas não parecem continuar a partir dali. Se quiser abrir a porta, vá para 299. Se preferir continuar em frente para o oeste, volte para 83."
 cap165 = "Há uma ranhura no cadeado, na qual você coloca a moeda. Imediatamente, o cadeado se abre, e você consegue desacorrentar as pernas-de-pau. Você as coloca nos ombros e, mais uma vez, parte para o norte. Vá para 234."
-cap166 = "Ao tocar o olho de esmeralda do ídolo, você ouve um rangido abaixo de si. Olhando na direção do ruído. Você fica abismado ao ver os dois pássaros empalhados voando. As asas dele batem aos arrancos, mas logo estão sobre você e parecem prontos para atacar. Lute com um dos GUARDIÕESVOADORES de cada vez, mas reduza a sua HABILIDADE em 3 pontos durante este combate, pois a posição restringe-lhe os movimentos. HABILIDADE	ENERGIA Primeiro GUARDIÃO VOADOR	7	8 Segundo GUARDIÃO VOADOR	8	8 Se você vencer, volte para 11.	"
+cap166 = "Ao tocar o olho de esmeralda do ídolo, você ouve um rangido abaixo de si. Olhando na direção do ruído. Você fica abismado ao ver os dois pássaros empalhados voando. As asas dele batem aos arrancos, mas logo estão sobre você e parecem prontos para atacar. Lute com um dos GUARDIÕESVOADORES de cada vez, mas reduza a sua HABILIDADE em 3 pontos durante este combate, pois a posição restringe-lhe os movimentos./\n/Primeiro GUARDIÃO VOADOR HABILIDADE - 7 ENERGIA - 8 /\n/Segundo GUARDIÃO VOADOR HABILIDADE - 8 ENERGIA - 8 /\n/ Se você vencer, volte para 11.	"
 cap167 = "Você gira o gancho de ferro em torno da cabeça e o atira na fera lá embaixo. As enormes mandíbulas do Diabo do Poços e fecham firmemente sobre o gancho, e, em seguida, ele joga a cabeça para trás. Ainda segurando a corda, você é puxado do alto da muralha e despenca no fundo do poço. Você perde 4 pontos de ENERGIA. Se ainda estiver vivo, vá para 203."
 cap168 = "Levantando o trinco e empurrando a pesada porta de pedra, você se vê em uma grande caverna. A luz é fraca e sombria, mas seus olhos logo se adaptam e você vê que as paredes são úmidas e revestidas de algas verdes. O chão está coberto de palha. A atmosfera é quente, úmida e fétida, e um zumbido suave enche o ar. Com cautela, você avança pela palha na direção de um dos cantos da caverna, onde parece haver um poço raso. Espiando com cuidado para dentro do poço, você fica enojado ao ver uma massa de vermes esbranquiçados que se contorcem, alguns deles chegando a meio metro de comprimento. Nauseado, você está prestes a ir embora quando repara que os corpos ondulantes dos vermes estão amontoados em torno de um punhal, cuja ponta está firmemente presa a uma fenda no fundo do poço. O cabo é envolto em couro negro com incrustações de opalas, e a lâmina é feita de um estranho metal lustrado preto-avermelhado. Você fica doido para pegar a arma, mas isso significaria enfiar a mão no meio daqueles vermes. Você tenta apanhar o punhal - volte para 94 - ou recua enojado e sai da caverna - vá para 267."
 cap169 = "Ele olha desconfia do quando você lhe oferece uma parte das suas Provisões. Mas a fome é mais forte que o medo, e ele acaba pondo a comida na boca. Você pergunta o que ele está fazendo nos túneis, e ele explica que é servo de um dos Juízes da Prova, os controladores de seções do calabouço designados pelo Barão Sukumvit. Diz que gostaria de escapar, mas ninguém pode sair do calabouço, a fim de impedir que o segredo da construção seja revelado. Você diz-se um dos concorrentes na Prova dos Campeões e que apreciaria qualquer tipo de ajuda. Esfregando o queixo, ele vira-se para você e diz: “Tudo o que lhe posso dizer é que, em um dos túneis setentrionais, há uma cadeira esculpida na forma de um pássaro demoníaco; um painel secreto no braço da cadeira contém uma poção em um frasco de vidro. É uma Poção de Réplica. Agora, preciso realizar minhas tarefas. Boa sorte. Espero que nos encontremos de novo fora destes túneis infernais.” O homem sai se arrastando e você continua sua jornada para o oeste. Volte para 109."
 cap170 = "Ao se aproximar da figura prostrada, você vê que é um dos seus rivais na Prova dos Campeões. É, na realidade, a Mulher-elfo. Ela luta tenazmente pela vida, envolta no abraço de uma enorme JIBÓIA que lhe esmaga os ossos. Se você quiser ajudá-la, vá para 281. Se preferir deixá-la à própria sorte e retornar pelo túnel para seguir para o norte, vá para 192."
 cap171 = "A porta abre para um pequeno aposento, mas, antes que saiba o que está acontecendo, você despenca no vazio havia um poço atrás da porta e você não o viu. Você cai pesadamente no fundo e se contorce em dores. Perde 4 pontos de ENERGIA. As paredes do poço são rugosas e têm muitos pontos onde apoiar os pés e as mãos; por isso, você consegue fazer a escalada e sair com bastante facilidade. Você amaldiçoa sua própria ansiedade e diz a si mesmo que doravante será mais cuidadoso. No interior do aposento, você vê dois ganchos de ferro numa das paredes. Há um rolo de corda pendurado em um deles; você o coloca na mochila, salta de volta por cima do poço e sai do aposento, dirigindo-se ao norte. Vá para 326."
-cap172 = "Lembrando da descrição da abjeta Besta Sangrenta, e da advertência quanto aos gases tóxicos que exalam da poça da fera, você cobre a boca com a manga da camisa e, atento, avança, espada na mão, para a língua do monstro. Enquanto você contorna a poça, a fera se projeta para frente e estica a língua, mas você está prevenido e a perfura com um golpe da espada. A fera urra de dor e se estica, frenética, para fora da poça, tentando abocanhá-lo com as mandíbulas inundadas de sangue. Você golpeia-lhe a carantonha com a espada, na tentativa de atingir-lhe os olhos verdadeiros. BESTA SANGRENTA	HABILIDADE 12	ENERGIA 10 Quando você vencer a sua segunda Série de Ataque, vá para 278."
+cap172 = "Lembrando da descrição da abjeta Besta Sangrenta, e da advertência quanto aos gases tóxicos que exalam da poça da fera, você cobre a boca com a manga da camisa e, atento, avança, espada na mão, para a língua do monstro. Enquanto você contorna a poça, a fera se projeta para frente e estica a língua, mas você está prevenido e a perfura com um golpe da espada. A fera urra de dor e se estica, frenética, para fora da poça, tentando abocanhá-lo com as mandíbulas inundadas de sangue. Você golpeia-lhe a carantonha com a espada, na tentativa de atingir-lhe os olhos verdadeiros. BESTA SANGRENTA -	HABILIDADE 12 /	ENERGIA 10 Quando você vencer a sua segunda Série de Ataque, vá para 278."
 cap173 = "A água fresca é revigorante e vem de uma fonte que foi salpicada com poeira de Duende. Se você ainda não o fez, poderá beber da outra fonte - vá para 337 - ou continuar para o norte - vá para 368."
 cap174 = "Quando você está retornando para a porta, o zumbido aumenta de intensidade, e você procura desesperadamente descobrir de onde ele vem. Ao olhar para o alto, você vê num relance a imensa e grotesca forma negra de uma MOSCA GIGANTE surgindo de uma reentrância no alto da parede da caverna. Ao se aproximar, você se dá conta de que ela tem pelo menos um metro e meio de comprimento. As asas opacas vibram, produzindo o abominável zumbido que você vem ouvindo; as seis pernas peludas estão posicionadas para agarrá-lo; abaixo dos olhos multifacetados, há uma longa probóscida, negra e lustrosa, que se movimenta malignamente para dentro e para fora. Você retirou o tesouro da Mosca Gigante do ninho de larvas, e agora deve enfrentar as consequências. Teste sua Sorte. Se você tiver sorte, volte para 39. Se não tiver sorte, vá para 350."
 cap175 = "Presa à coleira de um dos Cães de Guarda, há uma cápsula de metal. Você retira a parte de cima da cápsula e encontra um pequeno dente lá dentro. É um dente de Leprechaum, que lhe trará boa sorte. Some 2 pontos de SORTE. Você põe o dente no bolso e parte para o leste pelo túnel. Vá para 315."
@@ -192,15 +191,15 @@ cap185 = "Os Trogloditas estão tão concentrados na dança tribal que não ouve
 cap186 = "Lenta e cuidadosamente, você começa a escalar o ídolo. Quando está prestes a segurar na grande orelha, seu pé escorrega, Teste sua Sorte. Se você tiver sorte, vá para 260. Se não tiver sorte, vá para 358."
 cap187 = "O túnel faz uma curva fechada para a direita, depois da qual você vê um velhinho de barba longa encolhido atrás de uma grande cesta de vime. A cesta está amarrada a uma corda cuja ponta desaparece no teto. Com aparência preocupada,o velho diz: “Não me ataque, estranho. Não sou nenhuma ameaça para você. Estou aqui simplesmente para ajudá-lo. Se você fizesse a gentileza de me oferecer algum tipo de remuneração, eu ficarei feliz em içá-lo na cesta para o nível superior. E, acredite-me, você deveria estar lá.” Se você quiser dar ao homem alguma coisa da sua mochila pelo serviço, vá para 360. Se preferir passar por ele e seguir pelo túnel, vá para 280."
 cap188 = "O túnel começa a declinar e termina numa poça profunda. Se você conseguir se lembrar do poema da garota-espírito, volte para 155. Se não tiver encontrado a garota-espírito, vá para 224."
-cap189 ="As pontas da maça do Orca penetram dolorosamente na sua coxa esquerda. Você perde 3 pontos de ENERGIA. Você cambaleia para trás, mas consegue recuperar o equilíbrio a tempo de se defender. Felizmente, o túnel é estreito demais para que ambos os Orcas ataquem-no a um só tempo. Lute com um de cada vez. HABILIDADE	ENERGIA Primeiro ORCA	5	5 Segundo ORCA Se você vencer, vá para 257.	6	4"
+cap189 ="As pontas da maça do Orca penetram dolorosamente na sua coxa esquerda. Você perde 3 pontos de ENERGIA. Você cambaleia para trás, mas consegue recuperar o equilíbrio a tempo de se defender. Felizmente, o túnel é estreito demais para que ambos os Orcas ataquem-no a um só tempo. Lute com um de cada vez. /\n/Primeiro ORCA HABILIDADE - 5 ENERGIA - 5/\n/ Segundo ORCA HABILIDADE - 6 ENERGIA - 4/\n/ Se você vencer, vá para 257."
 cap190 = "Seu corpo vibra desenfreadamente, e você não consegue evitar o desmaio. Você perde 3 pontos de ENERGIA. Se ainda estiver vivo, volte para 50."
 cap191 = "Jogue dois dados. Se o total for menor que oito, volte para 152. Se o total for igual ou maior que oito, volte para 121."
 cap192 = "Caminhando pelo túnel, você repara em uma grade de ferro no chão. Se quiser parar e levantá-la, volte para 120. Se preferir prosseguir, vá para 292"
 cap193 = "O ácido queima a parede do seu estômago, penetrando nos seus órgãos vitais. Você tomba inconsciente para nunca mais se recuperar. Sua aventura termina aqui."
-cap194 = "Em uma plataforma de pedra na parede do túnel, você vê dois livros empoeirados encadernado sem couro. Throm expressa seu desprezo pela palavra escrita com um grunhido, insistindo para que você deixe os livros de lado e siga adiante com ele. Você: Abrirá o livro de couro vermelho?	Volte para 52 Abrirá o livro de como preto?	Volte para 138 Continuará para o norte pelo túnel?	Vá para 369"
+cap194 = "Em uma plataforma de pedra na parede do túnel, você vê dois livros empoeirados encadernado sem couro. Throm expressa seu desprezo pela palavra escrita com um grunhido, insistindo para que você deixe os livros de lado e siga adiante com ele. Você:/\n/ Abrirá o livro de couro vermelho? - Volte para 52/\n/ Abrirá o livro de como preto? -	Volte para 138/\n/ Continuará para o norte pelo túnel? - Vá para 369"
 cap195 = "Você desembainha a espada e corre na direção do velho. Ele ergue o braço esquerdo e, subitamente, você esbarra em uma barreira invisível. “Não seja tolo, meus poderes são grandes!”, diz o velho calmamente. “Se você não acredita em mim, veja isto.” Saindo do nada, um punho voador lhe desfere um soco no rosto antes que você possa se esquivar.Você perde 1 ponto de ENERGIA. Você sacode a cabeça e esfrega o queixo. Parece que não tem alternativa senão tentar responder à pergunta do velho. Vá para 382."
 cap196 = "Você levanta o escudo bem a tempo de se proteger de uma saraivada de espinhos lançados contra seu coração pela cauda do Mantécora. Ileso, com os espinhos cravados no escudo, você desembainha a espada e avança para o Mantécora.MANTÉCORA	HABILIDADE 11	ENERGIA 11 Se você vencer, vá para 364."
-cap197 = "Graças aos céus, a temperatura agora começa a cair rapidamente, e logo parece quase fresca de novo. No lado esquerdo do túnel, há uma porta fechada e nela, uma pequena placa de ferro que talvez possa ser aberta. Você: Tentará abrir a porta?	Volte para 171 Tentará fazer deslizar a placa de ferro?	Volte para 156 Continuará para o norte, subindo o túnel?	Vá para 326"
+cap197 = "Graças aos céus, a temperatura agora começa a cair rapidamente, e logo parece quase fresca de novo. No lado esquerdo do túnel, há uma porta fechada e nela, uma pequena placa de ferro que talvez possa ser aberta. Você:/\n/ Tentará abrir a porta? - Volte para 171 /\n/Tentará fazer deslizar a placa de ferro? - Volte para 156 /\n/Continuará para o norte, subindo o túnel? - Vá para 326"
 cap198 = "Quando o gás se dissipa, você caminha de volta para a arca e olha dentro dela. Há uma corrente com pingente jogada no fundo, mas alguém já retirou a pedra que estava incrustada nele. Isso o aborrece tanto que você o atira ao chão e sai furioso do aposento, subindo o túnel. Vá para 230"
 cap199 = "Os dardos da besta são em número tão grande que é impossível evitá-los. Jogue um dado para determinar o número de dardos que lhe atingem o corpo, perdendo 2 pontos de ENERGIA para cada um deles. Se ainda estiver vivo, terá que descansar aqui por um longo tempo para se recuperar dos ferimentos. Perde 1 ponto de SORTE. Quando você, finalmente, se sente forte o bastante para seguir adiante, sai do aposento e continua para o oeste pelo túnel. Volte para 74."
 cap200 = "A porta abre para um pequeno aposento como chão coberto de palha. No centro do aposento, há uma grande gaiola coberta de cerca de dois metros de altura; uma corda presa ao topo da cobertura de pano passa por um anel de ferro no teto e desce até o chão. Se você quiser levantar o pano, vá para 321. Se preferir sair do aposento e se dirigir para o norte pelo túnel, vá para 316."
@@ -224,7 +223,7 @@ cap216 = "Reconhecendo a cabeça de serpentes da Medusa, você fecha os olhos pa
 cap217 = "A passagem começa a subir lentamente, conduzindo-o sempre para o norte. Você não passa por uma única encruzilhada. Não há portas ou mesmo uma alcova para ser investigada, e você vai ficando mais relaxado enquanto segue adiante. Depois de certo tempo, você se torna tão temerário que não repara em um fino arame estendido bem baixo de lado a lado da passagem. Somente quando o seu pé o toca, e você ouve um ronco distante, é que se dá conta do erro que cometeu. O ronco cresce até um nível ensurdecedor, e subitamente surge da penumbra do túnel à sua frente um gigantesco rochedo que vem rolando na sua direção, ganhando velocidade a cada segundo. Largando o escudo, se tiver um (você perde 1 ponto de HABILIDADE), você se volta para fugir do rochedo que se aproxima. Volte para 36."
 cap218 = "Você logo chega a uma porta dupla na parede da esquerda. Apura os ouvidos, mas não percebe nada. Tenta a maçaneta, ela gira, você abre uma fresta na porta da esquerda e dá uma espiada. Um guerreiro armado jaz de bruços no chão de um aposento vazio, de paredes lisas e teto baixo. Ele deve estar morto, pois permanece inerte mesmo quando você grita por ele. Uma jóia grande, talvez um diamante, está caída logo adiante do braço esticado. Se você quiser entrar no aposento e pegar a jóia, volte para 65. Se preferir continuar para o norte, vá para 252."
 cap219 = "A dor nos pulmões força-o a subir à tona para respirar. Infelizmente, um dos Trogloditas o vê e grita pelos companheiros. Indefeso, você vê os arqueiros fazerem pontaria, e uma saraivada de flechas cai sobre você com impacto fatal. Seu corpo sem vida desce o rio boiando, penetrando nas profundezas ocultas da montanha."
-cap220 = "Um 'bong' sombrio soa como um toque de sino fúnebre. Tudo vibra à sua volta, e você aperta os dentes quando sua cabeça também estremece. Todo seu corpo está tremendo, e você cai. Você tirita e tem calafrios, contorcendo-se convulsivamente no chão, à medida que as vibrações se intensificam. Procura desesperadamente uma maneira de parar o sino. Você: Gritará o mais alto possível? // Volte para 61 /// Tentará abafar o sino com sua bota? // Vá para 346"
+cap220 = "Um 'bong' sombrio soa como um toque de sino fúnebre. Tudo vibra à sua volta, e você aperta os dentes quando sua cabeça também estremece. Todo seu corpo está tremendo, e você cai. Você tirita e tem calafrios, contorcendo-se convulsivamente no chão, à medida que as vibrações se intensificam. Procura desesperadamente uma maneira de parar o sino. Você:\nGritará o mais alto possível? (Volte para 61)\nTentará abafar o sino com sua bota? (Vá para 346)"
 cap221 = "O túnel conduz a uma caverna úmida de teto alto, como chão coberto de rochas. Estalactites em forma de dentes pendem ameaçadoramente, os pingos constantes criando poças leitosas no chão. O túnel prossegue atravessando a passagem em arco, a qual é talhada na forma de uma boca demoníaca. Se você quiser examinara caverna, vá para 374. Se preferir prosseguir direto pela passagem em arco, volte para 60."
 cap222 = "Você reconhece a fera - é um MANTÉCORA. Levando a sério a advertência do poema, você fica atento para a cauda dele, de cuja ponta sai uma profusão de espinhos afiados, grossos e duros como dardos de ferro. Se você tiver um escudo, volte para 196. Se não estiver carregando um escudo, volte para 6."
 cap223 = "Você pisa com confiança no primeiro poste e avança para o próximo. Ao tocar o terceiro poste, ele imediatamente solta uma chuva de farpas afiadas, cada uma com vários centímetros de comprimento. Você perde 2 pontos de SORTE. As farpas voam em todas as direções a grande velocidade, e você não consegue evitá-las. Jogue dois dados para saber o número de farpas que lhe penetram a pele. Cada uma delas reduz sua ENERGIA em 1 ponto. Se você ainda estiver vivo, consegue arrastar-se por sobre os postes restantes e se senta para a dolorosa tarefa de retirar as farpas do corpo. Depois de descansar um pouco, você segue para o leste. Vá para 313."
@@ -233,8 +232,8 @@ cap225 = "Você reage prontamente e, com um golpe de espada, consegue cortar a l
 cap226 = "A carne contém ervas que lhe aumentarão a força. Some 3 pontos seu índice de ENERGIA. Você pode caminhar até a alcova, se ainda não o fez - volte para 41 - ou sair da câmara e continuar para o oeste - volte para 83."
 cap227 = "Ainda sorrindo, o velho olha para você. “Errado”, ele diz em voz baixa. Volte para 85."
 cap228 = "Você enfia o braço no buraco e sente seu sangue gelar quando uma coisa quente e pegajosa se enrosca nele. Você consegue tirar o braço de dentro do buraco, mas um horrendo tentáculo, com ventosas incrivelmente fortes, está pendurado nele. Quando você consegue se libertar, cortando o tentáculo, seu braço dói e lateja. Teste sua Sorte. Se você tiver sorte, volte para 150. Se não tiver sorte, volte para 33."
-cap229 = "229 Logo que sua cabeça entra embaixo da luz azul, você ouve o som de vozes abafadas. Os rostos já não riem, e as expressões são agora máscaras de desespero e angústia. O rosto triste de uma menina paira à sua frente, ela começa a sussurrar um poema. Em transe, você ouve atentamente, acreditando que ela tem uma mensagem especial para você, enquanto ela recita:\n 'Quando o corredor a água encontrar, Não se apresse em recuar. Mergulhe depois dos pulmões encher, Se sua Prova espera vencer.' \nGuardando de cor o poema da garota-espírito, você atravessa o raio de luz e se dirige rapidamente para o norte. Volte para 107."
-cap230 = "O túnel começa a se alargar e abre para uma imensa caverna, de onde você pode ouvir o som de muitas vozes agudas. Você se aproxima silenciosamente da entrada e espia. Cerca de 20 minúsculos seres, com narizes e orelhas compridos, correm em círculo em volta de uma grande efígie de ouro. Você: /// Andará até eles para conversar? // Volte para 88 /// Tentará se esgueirar e passar por eles? // Volte para 5 /// Beberá a Poção da Réplica (se você a tiver) // Vá para 385"
+cap229 = "229 Logo que sua cabeça entra embaixo da luz azul, você ouve o som de vozes abafadas. Os rostos já não riem, e as expressões são agora máscaras de desespero e angústia. O rosto triste de uma menina paira à sua frente, ela começa a sussurrar um poema. Em transe, você ouve atentamente, acreditando que ela tem uma mensagem especial para você, enquanto ela recita:\n Quando o corredor a água encontrar, Não se apresse em recuar. Mergulhe depois dos pulmões encher, Se sua Prova espera vencer.\nGuardando de cor o poema da garota-espírito, você atravessa o raio de luz e se dirige rapidamente para o norte. Volte para 107."
+cap230 = "O túnel começa a se alargar e abre para uma imensa caverna, de onde você pode ouvir o som de muitas vozes agudas. Você se aproxima silenciosamente da entrada e espia. Cerca de 20 minúsculos seres, com narizes e orelhas compridos, correm em círculo em volta de uma grande efígie de ouro. Você:\nAndará até eles para conversar? Volte para 88 \nTentará se esgueirar e passar por eles?  Volte para 5 \nBeberá a Poção da Réplica (se você a tiver) // Vá para 385"
 cap231 = "Você encontra uma poça atrás dos Hobglobins mortos e toma grandes goles de água fresca o mais rápido possível. Isso neutraliza o ácido e, lentamente, você começa a se recuperar. Ainda com dor, você se levanta e parte para o norte. Volte para 110."
 cap232 = "Se você estiver desarmado, vá para 286. Se ainda estiver com suas armas, vá para 320."
 cap233 = "Você parte um pedaço grande do cogumelo e o mastiga ansiosamente. De imediato, seu estômago incha, e você pode mesmo vê-lo estufando por baixo do cinto. Todo o seu corpo começa a se expandir, rasgando-lhe ruidosamente as roupas. Você fica cada vez maior, e logo seu rosto está imprensado de encontro ao teto. Os cogumelos que você comeu são muito procurados por mágicos para as poções de crescimento, mas para você eles significam a morte. Você está grande demais para poder algum dia sair da adega. Sua aventura termina aqui."
@@ -253,8 +252,8 @@ cap245 = "Você não tem outra alternativa senão abrir a porta, já que o muro 
 cap246 = "Apesar de toda a cautela, sua perna raspa em um dos postes, que imediatamente solta uma chuva de farpas afiadas, cada uma com vários centímetros de comprimento. Você perde 2 pontos de SORTE. Elas voam em todas as direções com grande velocidade, e você não consegue evitá-las. Jogue dois dados para determinar o número de farpas que se cravam na sua carne. Cada farpa reduz sua ENERGIA em 1 ponto. Se ainda estiver vivo, você senta para a dolorosa tarefa de retirar as farpas do corpo antes de partir para o leste. Vá para 313."
 cap247 = "A fera diante de você é o temível MANTÉCORA. A ponta da cauda da criatura guarda uma profusão de espinhos pontudos, grossos e duros como dardos de ferro. Subitamente, ele sacode a cauda, lançando uma saraivada de espinhos na sua direção. Jogue um dado. O número obtido é a quantidade de espinhos que lhe penetrarão o corpo. Cada espinho custa-lhe 2 pontos de ENERGIA. Se você ainda estiver vivo, avança com dificuldade para atacar o Mantécora com sua espada, antes que ele tenha tempo de disparar mais espinhos. // MANTÉCORA // HABILIDADE 11 // ENERGIA 11 Se você vencer, vá para 364."
 cap248 = "As portas abrem para um túnel que segue para o norte. Você fecha as portas atrás de si e parte mais uma vez. Volte para 214."
-cap249 = "Você só tem tempo de ouvir o Gnomo dizer: “Uma coroa e dois crânios”, antes que um raio branco de energia parta da fechadura e atinja-lhe o peito, derrubando-o sem sentidos. Jogue um dado, some 1 ao número obtido e reduza esse total de sua ENERGIA. Se ainda estiver vivo, você se recupera e ouve o Gnomo lhe dizer que tente de novo. Você sabe que colocou uma gema na ranhura certa, mas qual delas? Você suspira e tenta uma nova combinação. // Esmeralda	Diamante // Safira // Volte para 16 /// Diamante // Safira // Esmeralda // Vá para 392 /// Safira // Esmeralda // Diamante // Volte para 177 /// Esmeralda //Safira // Diamante // Vá para 287 /// Diamante // Esmeralda // Safira // Volte para 132 /// Safira // Diamante // Esmeralda // Fique em 249"
-cap250 = "Quando você corre para a porta, o velho grita atrás de você: “Não corra, ninguém escapa de mim. Pare, ou eu o transformarei em pedra neste instante!” Você: Continua correndo?	Volte para 44 // Vira-se para atacá-lo com a espada?	Volte para 195 // Diz a ele que responderá à pergunta?	Vá para 382"
+cap249 = "Você só tem tempo de ouvir o Gnomo dizer: “Uma coroa e dois crânios”, antes que um raio branco de energia parta da fechadura e atinja-lhe o peito, derrubando-o sem sentidos. Jogue um dado, some 1 ao número obtido e reduza esse total de sua ENERGIA. Se ainda estiver vivo, você se recupera e ouve o Gnomo lhe dizer que tente de novo. Você sabe que colocou uma gema na ranhura certa, mas qual delas? Você suspira e tenta uma nova combinação.\nEsmeralda	Diamante Safira (Volte para 16)\nDiamante Safira  Esmeralda  (Vá para 392)\n Safira  Esmeralda  Diamante (Volte para 177) \nEsmeralda Safira  Diamante  (Vá para 287)\nDiamante  Esmeralda  Safira  (Volte para 132)\n Safira  Diamante  Esmeralda  (Fique em 249)"
+cap250 = "Quando você corre para a porta, o velho grita atrás de você: “Não corra, ninguém escapa de mim. Pare, ou eu o transformarei em pedra neste instante!” Você:\nContinua correndo?	(Volte para 44)\nVira-se para atacá-lo com a espada?	(Volte para 195)\nDiz a ele que responderá à pergunta?	(Vá para 382)"
 cap251 = "Mais uma vez, ouve-se a voz misteriosa, só que agora, para sua grande surpresa, num tom bem menos ameaçador: “Bom, meu senhor gosta daqueles que demonstram ter espírito. Tome este presente para ajudá-lo. Isto lhe concederá um desejo, mas somente um desejo. Adeus.” Um anel de ouro, magicamente saído do nada, cai a seus pés com um tinido suave. Você o põe num dedo. A porta se abre e você entra de novo no túnel, rumo ao norte. Vá para 344."
 cap252 = "O túnel continua para o norte por uma boa distância antes de chegar a um beco sem saída. A entrada de um escorrega é visível na parede do oeste, e essa parece ser a única alternativa, além da opção de retornar. Você resolve arriscar e sobe no escorrega. Desliza suavemente e aterrissa sobre as costas em um aposento. Volte para 90."
 cap253 = "253 Você tira o osso da mochila e o atira escada abaixo. Os latidos ficam mais altos, transformando-se em rosnados e ranger de dentes quando o osso cai no chão. Lentamente, você desce os degraus com a espada na mão, e vê os dois enormes CÃES DE GUARDA disputando o osso. Você passa correndo por eles e segue em frente pelo túnel. Vá para 315."
@@ -266,9 +265,9 @@ cap258 = "Você está exausto e se senta para um descanso na cauda da fera morta
 cap259 = "Ignorando a dor, você, continua a correr. À sua frente, vê um rio subterrâneo que corre de leste para oeste atravessando a caverna, com uma ponte de madeira que liga uma margem a outra. Você olha para trás e vê os Trogloditas no seu encalço. Se você quiser correr pela ponte, vá para 318. Se desejar mergulhar no rio, volte para 47."
 cap260 = "Você mal consegue se agarrar à orelha do ídolo e recuperar um ponto de apoio para os pés. Você se desloca pelo rosto da estátua. Sentado no nariz do ídolo, você desembainha a espada e considera qual dos olhos dele arrancará primeiro para levar a jóia. Se quiser arrancar primeiro o olho esquerdo, volte para 166. Se preferir arrancar o olho direito, volte para 140."
 cap261 = "Apesar de todos os esforços, você não consegue tirar o Laço do pescoço do ídolo. Finalmente, você desiste e o abandona para quem quer que venha depois de você. Não há nada mais de interesse na caverna, portanto você caminha até a parede norte e entra no túnel. Volte para 239."
-cap262 = "A porta abre para um outro túnel que segue para o norte. Você topa com duas fontes de pedra, uma de cada lado do túnel, esculpidas na forma de querubins, de cujas bocas a água jorra e desce em cascata para pequenas conchas nos pés. Você: // Beberá água na fonte da esquerda?	Vá para 337 // Beberá água na fonte da direita?	Volte para 173 // Continuará caminhando para o norte?	Vá para 368"
+cap262 = "A porta abre para um outro túnel que segue para o norte. Você topa com duas fontes de pedra, uma de cada lado do túnel, esculpidas na forma de querubins, de cujas bocas a água jorra e desce em cascata para pequenas conchas nos pés. Você:\nBeberá água na fonte da esquerda?	Vá para 337\nBeberá água na fonte da direita?	Volte para 173 \nContinuará caminhando para o norte?	Vá para 368"
 cap263 = "A porta abre para um outro túnel. Caminhando para o oeste, você logo chega a uma porta na parede norte. Se quiser abrir a porta, volte para 153. Se preferir continuar para o oeste, volte para 74."
-cap264 = "Adiante, na penumbra, você vê dois HOBGOBLINS se engalfinhando. Há uma bolsa de couro jogada no chão, e parece ser ela a razão da luta. Você: // Tentará conversar com eles?	Volte para 130 // Vai atacá-los com sua espada?	Volte para 51 // Tentará passar sem ser percebido?	Vá para 355"
+cap264 = "Adiante, na penumbra, você vê dois HOBGOBLINS se engalfinhando. Há uma bolsa de couro jogada no chão, e parece ser ela a razão da luta. Você:\nTentará conversar com eles?	Volte para 130\nVai atacá-los com sua espada?	Volte para 51 \nTentará passar sem ser percebido?	Vá para 355"
 cap265 = "Você esfrega seu anel mágico e deseja que o Demônio do Espelho seja transportado de volta ao próprio mundo e nunca mais retome. Ainda avançando na sua direção, o ser começa a se esvair e desaparece aos poucos. Por fim, ele some completamente, e você pode continuar sua jornada para o norte. Volte para 122."
 cap266 = "Você revista os armários e caixas no quarto de Erva, mas não encontra nada, exceto um osso velho, que pode levar com você, se quiser. Saindo da câmara pela porta do leste, você agora se encontra de pé no final de um outro túnel. Vá para 305."
 cap267 = "O túnel logo termina em uma encruzilhada. Olhando para a esquerda e para a direita, você vê uma passagem estreita que desaparece na penumbra da distância. Se você quiser se dirigir para o oeste, vá para 352. Se preferir seguir para o leste, volte para 68."
@@ -291,7 +290,7 @@ cap283 = "Você precisa se espremer e entrar fundo na fenda para se esconder com
 cap284 = "Você bebeu uma poção encontrada em um livro de couro preto? Se você tiver bebido, vá para 398. Se não, volte para 57."
 cap285 = "Você cai pesadamente de costas, mas, felizmente, sua mochila suaviza o impacto. Você perde 1 ponto de HABILIDADE e 2 pontos de ENERGIA. A escuridão é quase total no fundo do poço, e você se arrasta, tateando. Repentinamente, sua mão toca alguma coisa fria, dura e lisa. O objeto é pequeno e redondo, mas você não consegue imaginar o que pode ser. Você o põe na mochila, esperando saber o que é quando sair do poço. Você continua a engatinhar e, adiante, topa com a parede do poço. É lisa demais para ser escalada, e você tem que escavar apoios nela com a espada. Isso toma muito tempo, mas, finalmente, você chega à boca do poço e sai dele pelo lado leste. Imediatamente, verifica a mochila, e descobre que o objeto encontrado é uma esfera de rubi vermelho vivo. Você fica absolutamente deslumbrado e se dirige para o leste com excelente disposição, assobiando suavemente. Volte para 237."
 cap286 = "Foi obviamente um erro ter largado suas armas, mas, pelo menos, agora você pode se apossar das do Ninja morto. Você escolhe uma das facas compridas e a longa espada curva. O fio da lâmina de aço é excepcionalmente duro, e você não consegue deixar de admirar-lhe a beleza terrificante. Acrescente 4 pontos de HABILIDADE e vá para 320."
-cap287 = "Você só tem tempo de ouvir o Gnomo dizer: “Uma coroa e dois crânios”, antes que um raio branco de energia parta da fechadura e atinja-lhe o peito, derrubando-o sem sentidos. Jogue um dado, some 1 ao resultado e subtraia o total da sua ENERGIA. Se você ainda estiver vivo, recupera os sentidos e ouve o Gnomo lhe dizer que tente de novo. Você sabe que colocou uma gema na ranhura certa, mas qual delas? Você suspira e tenta uma nova combinação. /// Esmeralda	Diamante	Safira	Volte para 16 /// Diamante	Safira	Esmeralda	Vá para 392 /// Safira	Esmeralda	Diamante	Volte para 177 /// Esmeralda	Safira	Diamante	Fique em 287 /// Diamante	Esmeralda	Safira	Volte para 132 /// Safira	Diamante	Esmeralda	Volte para 249"
+cap287 = "Você só tem tempo de ouvir o Gnomo dizer: “Uma coroa e dois crânios”, antes que um raio branco de energia parta da fechadura e atinja-lhe o peito, derrubando-o sem sentidos. Jogue um dado, some 1 ao resultado e subtraia o total da sua ENERGIA. Se você ainda estiver vivo, recupera os sentidos e ouve o Gnomo lhe dizer que tente de novo. Você sabe que colocou uma gema na ranhura certa, mas qual delas? Você suspira e tenta uma nova combinação.\nEsmeralda	Diamante	Safira	Volte para 16\nDiamante	Safira	Esmeralda	Vá para 392\nSafira	Esmeralda	Diamante	Volte para 177\nEsmeralda	Safira	Diamante	Fique em 287\nDiamante	Esmeralda	Safira	Volte para 132\nSafira	Diamante	Esmeralda	Volte para 249"
 cap288 = "Você olha para a esquerda e vê Throm de pé sobre o Troll da Caverna que ele liquidou. O sangue que escorre do corte profundo que tem no ombro não parece preocupá-lo. Vocês revistam os corpos dos Trolls da Caverna, mas não encontram nada além de um anel de osso em um cordão de couro no pescoço de um deles. O anel tem um símbolo entalhado. Throm o reconhece e explica que deve ter pertencido a druidas do norte; trata-se de um antigo e poderoso talismã, capaz de aumentar-lhe os poderes, se seu corpo puder aceitá-lo. Throm recusa-se a tocar nele, e aconselha que você também não o faça. Se você quiser pôr o anel, volte para 64. Se preferir continuar para o leste com Throm, volte para 221."
 cap289 = "A cobertura de pano sobe para o topo da gaiola, e nela, para seu horror, você vê o rosto de uma mulher velha, cujo cabelo é uma massa de serpentes que silvam. É a terrível MEDUSA! Teste sua Sorte. Se você tiver sorte, volte para 216. Se não tiver sorte, volte para 19."
 cap290 = "Jogue dois dados. Se o total for oito, volte para 152. Se o total for qualquer número diferente de oito, volte para 121."
@@ -303,9 +302,9 @@ cap295 = "Correndo na direção da passagem em arco, você tropeça numa pedra e
 cap296 = "Você percebe que adiante o túnel faz uma curva e depois continua para o norte. Alertado pelo som de vozes esganiçadas que sussurram e riem baixo, você pára antes da curva. Se quiser desembainhar a espada e olhar depois da curva, volte para 49. Se preferir caminhar de volta para a encruzilhada e seguir para o norte, volte para 241."
 cap297 = "A perda de suas posses, obtidas com tanta dificuldade, está se tornando um problema. Você perde 1 ponto de SORTE. Sem mesmo parar para agradecer, Erva o empurra para fora do quarto por uma porta na parede leste. Ei-lo parado no fim de um outro túnel. Vá para 305."
 cap298 = "Há uma mochila encostada na parede do túnel. Você se pergunta se ela pertenceria a um de seus rivais. Se você quiser olhar dentro da mochila, vá para 304. Se preferir continuar para o norte, volte para 279."
-cap299 = "A porta abre para uma grande câmara, onde você se choca ao ver que um de seus rivais obviamente encontrou morte súbita ao ser perfurado. É um dos Bárbaros, e ele está empalado em vários espigões de ferro bem longos, presos a uma tábua projetada de dentro do chão. O piso está coberto de lixo e detritos, escondendo um arame no qual ele deve ter pisado, disparando assim o mecanismo da tábua com espigões. Numa alcova na parede do outro lado, você pode ver uma taça de prata sobre uma pequena mesa de madeira. Você: // Irá até o Bárbaro para revistá-lo?	Volte para 126 // Caminhará na direção da alcova?	Volte para 41 // Fechará a porta e continuará para o oeste?	Volte para 83"
+cap299 = "A porta abre para uma grande câmara, onde você se choca ao ver que um de seus rivais obviamente encontrou morte súbita ao ser perfurado. É um dos Bárbaros, e ele está empalado em vários espigões de ferro bem longos, presos a uma tábua projetada de dentro do chão. O piso está coberto de lixo e detritos, escondendo um arame no qual ele deve ter pisado, disparando assim o mecanismo da tábua com espigões. Numa alcova na parede do outro lado, você pode ver uma taça de prata sobre uma pequena mesa de madeira. Você: \n Irá até o Bárbaro para revistá-lo?	Volte para 126 \n Caminhará na direção da alcova?	Volte para 41 \n Fechará a porta e continuará para o oeste?	Volte para 83"
 cap300 = "Você golpeia o espelho com a espada, com toda sua força, mas isso de nada adianta: o espelho não quebra, e o Demônio do Espelho continua a avançar. Se você quiser tentar partir o espelho de novo, volte para 141. Se, em vez disso, preferir atacar o Demônio do Espelho, vá para 327."
-
+ 
 cap301 = "O cano está úmido e cheio de limo, mas você segue engatinhando na escuridão abafada, escorregando e deslizando no caminho. Subitamente, sua mão toca em algo duro e quadrado; parece ser de madeira. Ao sacudi-la, a coisa chacoalha, e você conclui que deve estar segurando uma caixa. Se quiser engatinhar de volta e sair do cano para examinar o achado, volte para 162. Se preferir seguir em frente pelo cano, levando a caixa para examinar mais tarde, volte para 4"
 cap302 = "Depois de cerca de 20 minutos, o Anão reaparece na sacada. Ele lhe grita: “Bem, eu realmente tenho um problema muito interessante nas mãos. Prepare-se para lutar contra seu próximo adversário.” A porta de madeira se ergue mais uma vez, e você se admira ao ver um rosto conhecido. É Throm! Ele está muito machucado e tem cortes pelo corpo todo, e não parece reconhecê-lo. Está claramente delirante enquanto cambaleia para frente com a acha erguida para atacá-lo. O Anão ri e lhe diz: “A naja o mordeu, mas ele tema força de um touro e conseguiu resistir, ao contrário da maioria dos homens. Agora você deve lutar com ele, para decidir finalmente qual dos dois continuará na Prova dos Campeões.” Você grita com o Anão, revoltado, denunciando a crueldade de um confronto desses. Ele simplesmente ri, e você não tem alternativas e não se defender do ataque do pobre Throm.\n THROM	HABILIDADE 10	ENERGIA 12 \n Apesar dos ferimentos, Throm é imensamente forte. Se você vencer, vá para 379."
 cap303 = "Com sua mão livre, você busca a moringa na mochila. Desarrolhando-a com os dentes, derrama o ácido sobre a porta, que é na realidade a forma fluida de um IMITADOR. Um jato de fumaça sobe dela, com um alto som sibilante, enquanto o ácido começa a queimar o Imitador. Ela derrete rapidamente, e você consegue afastar-se sem se ferir. Não tendo outra alternativa, você, um tanto apreensivo, gira a maçaneta da outra porta. Volte para 262."
@@ -430,7 +429,7 @@ cap33, cap34, cap35, cap36, cap37, cap38, cap39, cap40, cap41, cap42, cap43, cap
 
 mochila = inventario.gerar_mochila()
 
-array_capitulos_que_morrem = [cap2, cap3, cap4, cap7, cap8, cap17, cap19, cap34, cap44, cap61, cap70, cap85, cap96, cap140, cap193, cap101, cap116, cap219, cap233, cap268, cap272, cap276, cap317, cap325, cap333, cap334, cap347, cap366, cap372]
+array_capitulos_que_morrem = [cap2, cap3, cap4, cap7, cap8, cap17, cap19, cap34, cap44, cap61, cap70, cap85, cap96, cap140, cap193, cap101, cap116, cap219, cap193, cap233, cap255, cap268, cap272, cap276, cap317, cap325, cap333, cap334, cap347, cap359, cap366, cap372]
 morte = False
 
 while vitoria == False and morte == False and personagem_ficha["energia"] > 0: 
@@ -560,6 +559,9 @@ while vitoria == False and morte == False and personagem_ficha["energia"] > 0:
             print(f"Você gritou {nomepersonagem}")
         if capitulos[cap] == cap103:
             personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
         if capitulos[cap] == cap105:
             itens_adicionar = ["taça"]
             mochila["itens_diversos"] += itens_adicionar
@@ -567,6 +569,9 @@ while vitoria == False and morte == False and personagem_ficha["energia"] > 0:
             mochila["poção da réplica"] += 1
         if capitulos[cap] == cap115:
             personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
         if capitulos[cap] == cap123:
             itens_adicionar = ["amuleto de força"]
             mochila["itens_diversos"] += itens_adicionar
@@ -589,22 +594,555 @@ while vitoria == False and morte == False and personagem_ficha["energia"] > 0:
         if capitulos[cap] == cap132:
             azar = dado.dados() + 1
             personagem_ficha["energia"] = personagem_ficha["energia"] - azar
-
-            
-        
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        if capitulos[cap] == cap133:
+            resul = dado.dados() + dado.dados()
+            if resul <= personagem_ficha["habilade"]:
+                print("vá para 178")
+            else:
+                print("volte para 17")
+        if  capitulos[cap] == cap139:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+            # se continuar vivo combate com Erva
+        if  capitulos[cap] == cap141:
+            resul = dado.dados() + dado.dados()
+            if resul <= personagem_ficha["habilade"]:
+                print("volte para 72")
+            else:
+                print("volte para 96")
+        if  capitulos[cap] == cap143:
+            #Luta com o escorpião gigante, o ataque dele é dobrado se ele der dano critico, max 22 vá para 2 (morre), sn der 22 vá para 163
+            print('')
+        if  capitulos[cap] == cap145:
+            # Luta com o anão e a cada serie de ataque o jogador perde -2 em ataque no combate
+        if  capitulos[cap] == cap147:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 1
+            # ganha 'resistencia ao fogo', consegue se expor a temperaturas altas
+        if capitulos[cap] == cap148:
+            # combate com cães de guarda, pode fugir dps de matar o primeiro cão
+        if capitulos[cap] == cap149:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("volte para 70")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para 353")
+        if capitulos[cap] == cap150:
+            itens_adicionar = ["sino de metal"]
+            mochila["itens_diversos"] += itens_adicionar
+            personagem_ficha["habilade"] = personagem_ficha["habilidade"] - 1
+        if capitulos[cap] == cap151:
+            # Lute com os Guardiões Voadores um de cada vez 
+            personagem_ficha["habilade"] = personagem_ficha["habilidade"] - 2
+            # - 2 de habilidade somente na duração da luta, por causa do terreno
+            personagem_ficha["habilade"] = personagem_ficha["habilidade"] + 2
+        if capitulos[cap] == cap152:
+            soma = dado.dados() + dado.dados()
+            if soma <= personagem_ficha["habilidade"]:
+                print("Volte para 55")
+            else:
+                print("Vá para 202")
+        if capitulos[cap] == cap157:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 1
+        if capitulos[cap] == cap158:
+            personagem_ficha["habilade"] = personagem_ficha["habilidade"] - 1
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 4
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap162: 
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 1
+        if capitulos[cap] == cap166:
+            # Lute com os Guardiões Voadores um de cada vez 
+            personagem_ficha["habilade"] = personagem_ficha["habilidade"] - 3
+            # - 3 de habilidade somente na duração da luta, por causa do terreno
+        if capitulos[cap] == cap167:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 4
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap171:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 4
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap172:
+            #Luta com a besta Sangrenta 
+        if capitulos[cap] == cap174:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Volte para 39")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 350")
+        if capitulos[cap] == cap175:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 2
+        if capitulos[cap] == cap177:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Vá para 243")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Volte para 103")
+        if capitulos[cap] == cap179:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap180:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Volte para 53")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Volte para 272")
+        if capitulos[cap] == cap181:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Vá para 312")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Volte para 45") 
+        if capitulos[cap] == cap186:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Vá para 260")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Vá para 358")
+        if capitulos[cap] == cap189:
+            # Combate com as orcas, uma por vez
+        if capitulos[cap] == cap190:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap191:         
+            soma = dado.dados() + dado.dados()
+            if soma < 8:
+                print("Volte para 152")
+            else:
+                print("Volte para 292")
+        if capitulos[cap] == cap195:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap196:
+            print()
+            # Combate contra o mantécora
+        if capitulos[cap] == cap199:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        if capitulos[cap] == cap202:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Volte para 18")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Volte para 42")
+        if capitulos[cap] == cap203:
+            print()
+            # Luta com o Diabo do poço
+        if capitulos[cap] == cap204:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("Volte para 131")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("Volte para 199")
         if capitulos[cap] == cap207:
             personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
         
         if capitulos[cap] == cap215:
             personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+
+        if capitulos[cap] == cap223:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 2
+            soma = dado.dados() + dado.dados()
+            continua= input("\nPressione enter para jogar os dados")
+            personagem_ficha["energia"] = personagem_ficha["energia"] - soma
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        if capitulos[cap] == cap225:
+            # luta contra bestaSangrenta hab12 enrg10
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 97")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 21")
+        if capitulos[cap] == cap226:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 3
+        if capitulos[cap] == cap228:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 150")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 33")
+
+        if capitulos[cap] == cap235:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
         
-        
+        if capitulos[cap] == cap236:
+            # luta com imitador
+
+        if capitulos[cap] == cap238:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] + 1
             
+        if capitulos[cap] == cap242:
+            soma = dado.dados() + dado.dados()
+            continua= input("\nPressione enter para jogar os dados")
+            
+            if soma <= personagem_ficha["habilidade"]:
+                print('volte para 48')
+            else:
+                print('vá para 366')
+        
+        if capitulos[cap] == cap246:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 2
+            soma = dado.dados() + dado.dados()
+            continua= input("\nPressione enter para jogar os dados")
+            personagem_ficha["energia"] = personagem_ficha["energia"] - soma
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        
+        if capitulos[cap] == cap247:
+            # luta contra mantecora
+            soma = dado.dados() + dado.dados()
+            continua= input("\nPressione enter para jogar os dados")
+            personagem_ficha["energia"] = personagem_ficha["energia"] - soma
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        if capitulos[cap] == cap249:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - dado.dados() - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+        if capitulos[cap] == cap256:
+            itens_adicionar = ["Poção de Réplica - uma dose apenas"]
+            mochila["itens_diversos"] += itens_adicionar
+        if capitulos[cap] == cap257:
+            mochila["ouro"] += 1
+            itens_adicionar = ["Tubo oco de madeira"]
+            mochila["itens_diversos"] += itens_adicionar
+        if capitulos[cap] == cap269:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 3
+
+        if capitulos[cap] == cap270:
+            itens_adicionar = ["Peça de Ouro"]
+            mochila["ouro"] += 1
+
+        if capitulos[cap] == cap271:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 1
+
+        if capitulos[cap] == cap274:
+            soma = dado.dados() + dado.dados()
+            if soma <= personagem_ficha["habilidade"]:
+                print('volte para 238')
+            else:
+                print('vá para 359')
+        
+        if capitulos[cap] == cap275:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 231")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 309")
+
+        if capitulos[cap] == cap285:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 1
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+
+        if capitulos[cap] == cap286:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] + 4
+        
+        if capitulos[cap] == cap287:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 1 - dado.dados()
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break 
+
+        if capitulos[cap] == cap289:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 216")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 19")
+            
+        if capitulos[cap] == cap290:
+            soma = dado.dados() + dado.dados()
+            if soma == 8:
+                print('vá para 152')
+            else:
+                print('vá para 121')
+
+        if capitulos[cap] == cap294:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 2
+            # luta com besta sangrenta
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 97")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 21")
+
+        if capitulos[cap] == cap295:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 5 
+
+        if capitulos[cap] == cap297:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            
+        if capitulos[cap] == cap302:
+            # luta com o throm
+            
+        if capitulos[cap] == cap304:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 6
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        
+        if capitulos[cap] == cap306:
+            mochila["itens_diversos"] = 0
+            mochila["Poção de Vida"] = 0 
+            mochila["Poção de Sorte"] = 0  
+            mochila["espada"] = 0
+            mochila["poção da réplica"] = 0
+            mochila["itens_diversos"] = []
+            mochila["Peça de Ouro"] = 0
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 2
+        
+        if capitulos[cap] == cap309:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 231")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 193")
+
+        if capitulos[cap] == cap312:
+            # luta com Ninja
+
+        if capitulos[cap] == cap326:
+            soma = dado.dados()
+            if soma == 1 or soma == 2:
+                print('vá para 91')
+            if soma == 3 or soma == 4:
+                print('vá para 189')
+            if soma == 5 or soma == 6:
+                print('vá para 380')
+        
+        if capitulos[cap] == cap330:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        
+        if capitulos[cap] == cap331:
+            # luta com guerreiro esqueleto
+
+        if capitulos[cap] == cap332:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 53")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 272")
+        
+        if capitulos[cap] == cap335:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("vá para rota 67")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 101")
+
+        if capitulos[cap] == cap336:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 4
+
+        if capitulos[cap] == cap337:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 1
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 2
+        
+        if capitulos[cap] == cap339:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+
+        if capitulos[cap] == cap343:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 1
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+
+        if capitulos[cap] == cap348:
+            soma = dado.dados() + dado.dados()
+            if soma <=  personagem_ficha["habilidade"]:
+                print('vá para 225')
+            else:
+                print("vá para 159")
+
+        if capitulos[cap] == cap349:
+            # luta contra o diabo do poço
+
+        if capitulos[cap] == cap350:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - dado.dados()
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        
+        if capitulos[cap] == cap353:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 1
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 4
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        
+        if capitulos[cap] == cap354:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] - 2
+            soma = dado.dados() + dado.dados()
+            if soma <=  personagem_ficha["habilidade"]:
+                print('vá para 55')
+            else:
+                print("vá para 202")
+
+        if capitulos[cap] == cap358:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+            
+        if capitulos[cap] == cap361:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("volte para 118")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 295")
+            
+        if capitulos[cap] == cap363:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 2
+            
+        if capitulos[cap] == cap367:
+            print("Deseja Comprar? (sim/não)")
+            r = input(">")
+            if r == "sim"
+                mochila["Peça de Ouro"] -= 1       
+        if capitulos[cap] == cap368:
+            print("Deseja Comprar? (sim/não)")
+            r = input(">")
+            if r == "sim"
+                mochila["Peça de Ouro"] -= 1 
+        if capitulos[cap] == cap369:
+            print()
+            # Luta com Trolls da Caverna
+        if capitulos[cap] == cap370:
+            soma = dado.dados() + dado.dados()
+            if soma <= personagem_ficha["habilidade"]:
+                print("Volte para 104")
+            else:
+                print("Volte para 342")
+        if capitulos[cap] == cap371:
+            soma = dado.dados() + dado.dados()
+            if soma <= personagem_ficha["habilidade"]:
+                print("Volte para 273")
+            else:
+                print("Volte para 113")
+        if capitulos[cap] == cap374:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("volte para 118")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 295")
+        if capitulos[cap] == cap377:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 5
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap378:
+            testesorte = dado.dados() + dado.dados()
+            if testesorte < personagem_ficha["sorte"]:
+                print("volte para 112")
+                personagem_ficha["sorte"] = personagem_ficha["sorte"] - 1
+            else:
+                print("vá para rota 209")
+        if capitulos[cap] == cap380:
+            print()
+            # Combate Orca um por um
+        if capitulos[cap] == cap384:
+           personagem_ficha["energia"] = personagem_ficha["energia"] - 2
+        if capitulos[cap] == cap386:
+           personagem_ficha["energia"] = personagem_ficha["energia"] - 1
+        if capitulos[cap] == cap387:
+            print()
+            # Luta com Homem da Caverna 
+        if capitulos[cap] == cap389:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] - 4
+        if capitulos[cap] == cap390:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 1
+        if capitulos[cap] == cap391:
+            personagem_ficha["habilidade"] = personagem_ficha["habilidade"] + 1
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 1
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 1
+
+        if capitulos[cap] == cap392:
+            unluck = dado.dados() + 1
+            personagem_ficha["energia"] = personagem_ficha["energia"] - unluck
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap394:
+            unluck = dado.dados() + 2
+            personagem_ficha["energia"] = personagem_ficha["energia"] - unluck
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+        if capitulos[cap] == cap395:
+            personagem_ficha["energia"] = personagem_ficha["energia"] - 3
+            if personagem_ficha["energia"] <= 0:
+                print('você está morto')
+                break
+            
+        if capitulos[cap] == cap397:
+            personagem_ficha["sorte"] = personagem_ficha["sorte"] + 2
+
+        if capitulos[cap] == cap399:
+            personagem_ficha["energia"] = personagem_ficha["energia"] + 3
         
 
 
-        
-        
         continua= input("\nPressione enter para continuar")
         print("qual foi a sua rota?")
         cap = int(input(">"))
